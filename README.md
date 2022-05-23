@@ -2,7 +2,7 @@
 
 
 
-2 linka za augmentaciju koje je Josip poslao:
+2 linka za augmentation biblioteke koje je Josip poslao:
 
 https://github.com/makcedward/nlpaug
 
