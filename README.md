@@ -13,7 +13,7 @@ Paper u vezi data augmentationa u sequence labelingu:
 
 https://arxiv.org/pdf/2010.11683.pdf
 
-------------------------------------------
+
 # todo
 
 Napraviti metodu koja sve pojednostavljene prijmjere iz foldera augmentira, i spremiti augmentirane podatke spremu u novi augmented_train.csv i augmented pn_notes.csv
