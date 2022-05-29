@@ -1,0 +1,54 @@
+
+SynonymAugmenter-percent-aug-0.1-num-augs-1-run-1
+{'precision': 0.6096899347064947, 'recall': 0.768854415274463, 'f1': 0.6800837394226201}
+
+SynonymAugmenter-percent-aug-0.1-num-augs-1-run-2
+{'precision': 0.7245642230189145, 'recall': 0.6994033412887828, 'f1': 0.7117614912866598}
+
+SynonymAugmenter-percent-aug-0.1-num-augs-1-run-3
+{'precision': 0.6748105339654635, 'recall': 0.7756563245823389, 'f1': 0.7217277050909562}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-1-run-1
+{'precision': 0.6675397431699953, 'recall': 0.7299124900556881, 'f1': 0.6973341693742994}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-1-run-2
+{'precision': 0.7215704158202396, 'recall': 0.6923229912490055, 'f1': 0.7066442012951422}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-1-run-3
+{'precision': 0.6709092909804497, 'recall': 0.7275656324582339, 'f1': 0.6980898040188539}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-1-run-1
+{'precision': 0.70565145823661, 'recall': 0.665035799522673, 'f1': 0.6847418753711629}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-1-run-2
+{'precision': 0.7113427752626988, 'recall': 0.6812649164677804, 'f1': 0.6959790316354105}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-1-run-3
+{'precision': 0.6750584358355366, 'recall': 0.7007557677008751, 'f1': 0.6876671155610202}
+
+SynonymAugmenter-percent-aug-0.1-num-augs-3-run-1
+{'precision': 0.7112886306786089, 'recall': 0.7012728719172633, 'f1': 0.7062452429595801}
+
+SynonymAugmenter-percent-aug-0.1-num-augs-3-run-2
+{'precision': 0.7412650993635537, 'recall': 0.6810262529832936, 'f1': 0.7098700167920889}
+
+SynonymAugmenter-percent-aug-0.1-num-augs-3-run-3
+{'precision': 0.5925892963094814, 'recall': 0.7945505171042164, 'f1': 0.6788675910821098}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-3-run-1
+{'precision': 0.6861690868295162, 'recall': 0.6447096260938743, 'f1': 0.6647935850372224}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-3-run-2
+{'precision': 0.6959310316105118, 'recall': 0.6646778042959427, 'f1': 0.6799454741510854}
+
+SynonymAugmenter-percent-aug-0.3-num-augs-3-run-3
+{'precision': 0.6948038440737196, 'recall': 0.6643198090692124, 'f1': 0.6792199605506639}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-3-run-1
+{'precision': 0.7500649789468212, 'recall': 0.5739459029435163, 'f1': 0.6502918178335625}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-3-run-2
+{'precision': 0.7384623621372738, 'recall': 0.5486475735879077, 'f1': 0.6295586288739787}
+
+SynonymAugmenter-percent-aug-0.5-num-augs-3-run-3
+{'precision': 0.6832754126846221, 'recall': 0.6256563245823389, 'f1': 0.6531976744186045}
