@@ -1,0 +1,54 @@
+
+LwtrAugmenter-percent-aug-0.1-num-augs-1-run-1
+{'precision': 0.6968609526687568, 'recall': 0.7338106603023071, 'f1': 0.7148586596400132}
+
+LwtrAugmenter-percent-aug-0.1-num-augs-1-run-2
+{'precision': 0.7246625869729232, 'recall': 0.6877088305489261, 'f1': 0.7057022735621862}
+
+LwtrAugmenter-percent-aug-0.1-num-augs-1-run-3
+{'precision': 0.6930189736610359, 'recall': 0.6886634844868735, 'f1': 0.6908343641514705}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-1-run-1
+{'precision': 0.7578202336171055, 'recall': 0.6090294351630867, 'f1': 0.6753263937896965}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-1-run-2
+{'precision': 0.7502460053418303, 'recall': 0.636873508353222, 'f1': 0.6889266582044276}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-1-run-3
+{'precision': 0.6825249907441688, 'recall': 0.7332935560859188, 'f1': 0.7069990412272291}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-1-run-1
+{'precision': 0.7387972754974009, 'recall': 0.6558074781225139, 'f1': 0.6948331085637222}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-1-run-2
+{'precision': 0.7443165186847497, 'recall': 0.6068814638027048, 'f1': 0.668609492089925}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-1-run-3
+{'precision': 0.7513577564925447, 'recall': 0.6053301511535402, 'f1': 0.6704850861347313}
+
+LwtrAugmenter-percent-aug-0.1-num-augs-3-run-1
+{'precision': 0.7277326256427268, 'recall': 0.698090692124105, 'f1': 0.7126035406853988}
+
+LwtrAugmenter-percent-aug-0.1-num-augs-3-run-2
+{'precision': 0.664304031913378, 'recall': 0.7418854415274463, 'f1': 0.7009546001202646}
+
+LwtrAugmenter-percent-aug-0.1-num-augs-3-run-3
+{'precision': 0.6637398373983739, 'recall': 0.7306682577565633, 'f1': 0.6955978415222949}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-3-run-1
+{'precision': 0.7077122199410872, 'recall': 0.6307478122513922, 'f1': 0.6670172043915367}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-3-run-2
+{'precision': 0.6567909840827234, 'recall': 0.674582338902148, 'f1': 0.6655677871313358}
+
+LwtrAugmenter-percent-aug-0.3-num-augs-3-run-3
+{'precision': 0.6873225727958472, 'recall': 0.6741447891805887, 'f1': 0.6806699064219447}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-3-run-1
+{'precision': 0.6999116566699214, 'recall': 0.5987669053301512, 'f1': 0.6454005616652733}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-3-run-2
+{'precision': 0.6569820758649437, 'recall': 0.6269291964996022, 'f1': 0.6416039079991859}
+
+LwtrAugmenter-percent-aug-0.5-num-augs-3-run-3
+{'precision': 0.6667218132186286, 'recall': 0.6412092283214001, 'f1': 0.6537166957297539}
