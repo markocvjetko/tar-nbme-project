@@ -1,0 +1,55 @@
+
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-1-run-1
+{'precision': 0.7345996732026144, 'recall': 0.7153142402545744, 'f1': 0.7248286981056027}
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-1-run-2
+{'precision': 0.7318444861031869, 'recall': 0.7143198090692124, 'f1': 0.7229759652159908}
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-1-run-3
+{'precision': 0.7357277418297977, 'recall': 0.7145982498011137, 'f1': 0.7250090802695831}
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-3-run-1
+{'precision': 0.7692234397332063, 'recall': 0.6422434367541766, 'f1': 0.7000216778668978}
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-3-run-2
+{'precision': 0.6846830136884668, 'recall': 0.7341686555290374, 'f1': 0.708562873102098}
+
+ShuffleSequenceAugmenter-percent-aug-0.1-num-augs-3-run-3
+{'precision': 0.7319570325612622, 'recall': 0.6938743038981703, 'f1': 0.7124070897655805}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-1-run-1
+{'precision': 0.6949646578736428, 'recall': 0.7587112171837709, 'f1': 0.725440231240254}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-1-run-2
+{'precision': 0.6516798418972332, 'recall': 0.7869928400954654, 'f1': 0.7129729729729729}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-1-run-3
+{'precision': 0.6657508520553662, 'recall': 0.76145584725537, 'f1': 0.7103944780495046}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-3-run-1
+{'precision': 0.7394891122278057, 'recall': 0.7024264120922832, 'f1': 0.7204814361485108}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-3-run-2
+{'precision': 0.6538214297797476, 'recall': 0.7686953062848051, 'f1': 0.7066201071356746}
+
+ShuffleSequenceAugmenter-percent-aug-0.3-num-augs-3-run-3
+{'precision': 0.7351607846460195, 'recall': 0.6902147971360382, 'f1': 0.7119791559813716}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-1-run-1
+{'precision': 0.6767780938833571, 'recall': 0.7570007955449483, 'f1': 0.7146451370634622}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-1-run-2
+{'precision': 0.6830191348636508, 'recall': 0.7681384248210024, 'f1': 0.7230823956714658}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-1-run-3
+{'precision': 0.6824197280879375, 'recall': 0.7507159904534606, 'f1': 0.714940525797409}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-3-run-1
+{'precision': 0.6487779133819309, 'recall': 0.7823786793953859, 'f1': 0.709342373370359}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-3-run-2
+{'precision': 0.698083314011902, 'recall': 0.7185759745425616, 'f1': 0.708181426163315}
+
+ShuffleSequenceAugmenter-percent-aug-0.5-num-augs-3-run-3
+{'precision': 0.6143220418798857, 'recall': 0.7783611774065234, 'f1': 0.6866808204516344}
