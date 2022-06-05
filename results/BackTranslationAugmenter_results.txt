@@ -1,0 +1,53 @@
+BackTranslationAugmenter-percent-aug-0.1-num-augs-1-run-1
+{'precision': 0.7272437048565386, 'recall': 0.7249005568814638, 'f1': 0.7260702404430367}
+
+BackTranslationAugmenter-percent-aug-0.1-num-augs-1-run-2
+{'precision': 0.7052075132156113, 'recall': 0.7482100238663485, 'f1': 0.7260726072607261}
+
+BackTranslationAugmenter-percent-aug-0.1-num-augs-1-run-3
+{'precision': 0.7488028048571918, 'recall': 0.6966189339697693, 'f1': 0.7217688757006265}
+
+BackTranslationAugmenter-percent-aug-0.1-num-augs-3-run-1
+{'precision': 0.6796454460633029, 'recall': 0.7533412887828163, 'f1': 0.7145983473569031}
+
+BackTranslationAugmenter-percent-aug-0.1-num-augs-3-run-2
+{'precision': 0.6925974268133508, 'recall': 0.7387430389817025, 'f1': 0.7149263785968627}
+
+BackTranslationAugmenter-percent-aug-0.1-num-augs-3-run-3
+{'precision': 0.7637671386828501, 'recall': 0.6758154335719968, 'f1': 0.7171045689564208}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-1-run-1
+{'precision': 0.7599352240896359, 'recall': 0.6906523468575975, 'f1': 0.7236392431441194}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-1-run-2
+{'precision': 0.6432217264293281, 'recall': 0.7970167064439141, 'f1': 0.7119077650068395}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-1-run-3
+{'precision': 0.7235778528329095, 'recall': 0.7584327764518696, 'f1': 0.7405954438639762}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-3-run-1
+{'precision': 0.7126471821057043, 'recall': 0.7439140811455848, 'f1': 0.7279450401883891}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-3-run-2
+{'precision': 0.7148871336353795, 'recall': 0.7092283214001591, 'f1': 0.7120464846947945}
+
+BackTranslationAugmenter-percent-aug-0.3-num-augs-3-run-3
+{'precision': 0.6897468500751358, 'recall': 0.7120525059665871, 'f1': 0.7007222124361459}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-1-run-1
+{'precision': 0.7013935715891212, 'recall': 0.7447494033412888, 'f1': 0.7224215765713625}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-1-run-2
+{'precision': 0.7536907536907537, 'recall': 0.6945107398568019, 'f1': 0.7228915662650602}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-1-run-3
+{'precision': 0.6944326719321904, 'recall': 0.716945107398568, 'f1': 0.7055093453371171}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-3-run-1
+{'precision': 0.7015206929740134, 'recall': 0.7248210023866348, 'f1': 0.7129805340897974}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-3-run-2
+{'precision': 0.7084997603451031, 'recall': 0.705568814638027, 'f1': 0.70703125}
+
+BackTranslationAugmenter-percent-aug-0.5-num-augs-3-run-3
+{'precision': 0.7531920381754869, 'recall': 0.6968973747016707, 'f1': 0.7239519844631309}
